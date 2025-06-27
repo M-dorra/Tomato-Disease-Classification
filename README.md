@@ -21,4 +21,10 @@ This project is a web application for detecting **tomato leaf diseases** from im
 ### 3. Run the server
 ### 4. Open the web interface
 
+## Dataset : ** https://drive.google.com/file/d/1Oawsk8emrI2C0I7Crx2anYDFMqfDz0YP/view?usp=drive_link **
+
+![Screenshot 2025-06-27 004906](https://github.com/user-attachments/assets/0f7bd2ee-7cd6-4afa-98f3-91e7e3dd77ca)
+
+![Screenshot 2025-06-27 004938](https://github.com/user-attachments/assets/cd624c03-0d8d-48a0-90c9-ba0ba7940d05)
+
 
